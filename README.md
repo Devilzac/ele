@@ -1,6 +1,6 @@
-# ele
+# Electry test
 
-## Project setup
+## Instalar Dependencias
 
 ```
 npm install
@@ -12,13 +12,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Para evitar problemas con CORS se ha usado en la solicitud con AXIOS al endpoint https://cat-fact.herokuapp.com/facts
+### Para evitar problemas con CORS se ha utilizado en la solicitud con AXIOS al endpoint https://cat-fact.herokuapp.com/facts
 
 ```
 https://cors-anywhere.herokuapp.com/
