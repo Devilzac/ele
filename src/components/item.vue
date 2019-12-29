@@ -33,7 +33,7 @@
       prev-text="Anterior"
       next-text="Siguiente"
       last-text="Ultimo"
-      aria-controls="my-table"
+      aria-controls="cat-table"
     ></b-pagination>
   </div>
 </template>

@@ -6,7 +6,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar y visualizar
 
 ```
 npm run serve
@@ -17,7 +17,11 @@ npm run serve
 ```
 https://cors-anywhere.herokuapp.com/
 ```
+### En este repositorio se ha usado Bootstrap vue con marcado de accesibilidad
 
+```
+https://bootstrap-vue.js.org/
+```
 
 ### Mas info sobre mi
 
