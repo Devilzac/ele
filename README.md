@@ -1,7 +1,7 @@
-# Electry test
+# Electry test 80% Terminada.
 
 ```
-Uso de la api solicitada. Debido a un problema de la api (Error 503) no se ha podido
+Debido a un problema de la api (Error 503) no se ha podido
 terminar la prueba tecnica entera usando esta api.
 ```
 
